@@ -1,0 +1,9 @@
+venv/
+pycache/
+.DS_Store
+.env
+data/vectorstore/
+.langchain/
+.langsmith/
+.idea/
+.vscode/
