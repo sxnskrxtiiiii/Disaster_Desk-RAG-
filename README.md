@@ -130,6 +130,10 @@ Save the file and preview
 
 Save README.md and preview it on GitHub or VS Code Markdown preview to ensure headings and lists render correctly.
 
+### Screenshot of UI
+
+![App UI](/UI Screenshot.png)
+
 ### Commit and push
 
 git add README.md
