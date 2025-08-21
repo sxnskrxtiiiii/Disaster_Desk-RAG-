@@ -132,7 +132,7 @@ Save README.md and preview it on GitHub or VS Code Markdown preview to ensure he
 
 ### Screenshot of UI
 
-![App UI](/UI Screenshot.png)
+![App UI](/ui_screenshot.png)
 
 ### Commit and push
 
